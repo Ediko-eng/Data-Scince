@@ -39,7 +39,6 @@ $$Y = \beta_0 + \beta_1(Year) + \epsilon$$
 ## 📁 Repository Structure
 * **`main.ipynb`**: Core analysis script featuring T-Tests and Regression models.
 * **`main1.ipynb`**: Data visualization and secondary statistical checks.
-* **`Relatorio_Projetu_Final.docx`**: Full academic report containing the study's background and final conclusions.
 
 ## ⚙️ Setup & Execution
 1. **Dependencies:** `pip install pandas numpy seaborn scipy statsmodels`
