@@ -49,5 +49,5 @@ $$Y = \beta_0 + \beta_1(Year) + \epsilon$$
 
 ## 🔗 Project Metadata
 * **University:** National University of Timor-Lorosa'e (UNTL)
-* **Faculty:** FECT — Department of Informatic Engineering
+* **Faculty:** Faculty of Engineer Science and Technology — Department of Informatic Engineering
 * **Project Documentation:** [View Full License](https://github.com/Ediko-eng/Data-Scince/blob/main/LICENSE)
